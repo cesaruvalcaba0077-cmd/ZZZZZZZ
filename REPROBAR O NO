@@ -1,0 +1,6 @@
+def validar_calificacion(calificacion):
+    if calificacion >= 80:
+        print(f"{calificacion}: OK")
+    else:
+        print(f"{calificacion}: No OK")
+
